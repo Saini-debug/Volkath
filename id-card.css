@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/965/883/624/manga-one-piece-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.id-card{
+    margin: 18px;
+    height: 39vh;
+    width: 12vw;
+    margin-top: 16px;
+    display: flex;
+    border: 2px solid;
+    flex-direction: column;
+    padding: 13px;
+    justify-content: center;
+    align-items: center;
+    background-color: #dfdfc7;
+
+}
+img{
+    height: 24vh;
+    width: 9vw;
+    border: 2px solid;
+    margin-top: 10px;
+}
+
+.name{
+    font-weight: bolder;
+    margin: 6px 0px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    font-weight: 700;
+    margin: 13px;
+}
+
+.doc{
+    display: flex;
+    justify-content: center;
+}
